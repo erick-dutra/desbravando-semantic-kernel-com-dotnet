@@ -11,7 +11,7 @@ A série cobre desde os conceitos mais básicos até integrações e aplicaçõe
 > Todos os exemplos usam:
 > - Semantic Kernel
 > - .NET 9
-> - LLAMA via [Ollama](https://ollama.com) executando em Docker local
+> - LLAMA via [Ollama](https://ollama.com/download) executando localmente
 
 ---
 
